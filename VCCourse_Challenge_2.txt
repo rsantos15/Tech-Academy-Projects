@@ -1,0 +1,1 @@
+Utilize Git Bash to upload and commit this file to your “Tech-Academy-Projects” repository on GitHub.
